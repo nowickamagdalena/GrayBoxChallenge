@@ -1,0 +1,9 @@
+﻿G:\Program filesv2\Visual Studio 2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (DEChallenge.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Optimizer.cpp
+G:\TechnikiEP\tep\GrayBoxChallange\GrayBoxChallenge\Optimizer.h(48,13): warning C4227: anachronism used: qualifiers on reference are ignored
+G:\TechnikiEP\tep\GrayBoxChallange\GrayBoxChallenge\Optimizer.cpp(126,51): warning C4227: anachronism used: qualifiers on reference are ignored
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 613 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  GrayBoxChallenge.vcxproj -> G:\TechnikiEP\tep\GrayBoxChallange\x64\Release\GrayBoxChallenge.exe
